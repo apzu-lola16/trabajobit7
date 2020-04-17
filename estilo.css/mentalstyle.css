@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    color: rgb(212, 31, 143);
+}
+h2{
+    padding-left: 10px;
+    padding-top: -80px;
+    color: violet;
+}
+h3{
+    padding-left: 10px;
+    color: tomato;
+}
+body{
+    background-color: rgb(82, 10, 54);
+}
+.parrafotitulo1{
+    color: rgb(240, 235, 227);
+    padding-left: 50px;
+}
+.imagen1{
+    text-align: center;
+    padding-top: 30px;
+}
+.bloquetitulo2{
+    background-image: url(../img/fondo/fondo2tdah.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.imagen2{
+    text-align: center;
+    padding-right: -90px;
+    margin: 160px auto;
+    text-align: right;
+    width: 970px;
+    position: absolute;
+}
+.parrafo{
+   padding-left: 50px;   
+}
+.parrafo1{
+    padding-left: 50px;
+}
+
+.parrafotitulo2{
+   padding: 40px;
+   text-align: left;
+   color: rosybrown;
+   width: 970px;
+   padding-right: 100px;
+}
+.parrafotitulo3{
+    text-align: center;
+    color: white;
+}
+.parrafotitulo4{
+    text-align: left;
+    color: white;
+}
+.imagen3{
+    text-align: center;
+    padding-right: -90px;
+    margin: 160px auto;
+    text-align: right;
+    width: 1200px;
+    position: absolute;
+}
